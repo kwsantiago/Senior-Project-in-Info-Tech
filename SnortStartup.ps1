@@ -1,0 +1,1 @@
+﻿& 'C:\Snort\bin\snort.exe' -i 4 -c C:\Snort\etc\snort.conf -A fast
